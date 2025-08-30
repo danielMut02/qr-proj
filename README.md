@@ -15,13 +15,11 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](screenshot\desktop-desgin.png)
+![Preview](./screenshot/desktop-desgin.png)
 
 ### Links
 
@@ -57,7 +55,7 @@ In the HTML section I worked with basic semantics and learnt how to structure my
 
 In the CSS I learnt how to properly implement flex property and make my website responsive with the media queries.
 
-## .contenedor is a class for a div containing the car with the QR code
+**Note: .contenedor is a class for a div containing the car with the QR code **
 
 ```css
 .contenedor{
