@@ -121,7 +121,7 @@ h1{
 
 @media (min-width: 1024px) {
       .contenedor {
-        max-width: 250px;
+        max-width: 300px;
         height: auto;
         padding: 12px;
       }
@@ -131,7 +131,7 @@ h1{
       }
 
       .contenedor h1 {
-        font-size: 1rem;
+        font-size: 1.2rem;
       }
 
       .qr {
@@ -140,7 +140,7 @@ h1{
 
       .contenedor > p {
         margin-bottom: 5px;
-        font-size: 0.8rem;
+        font-size: 1rem;
       }
 }
 
