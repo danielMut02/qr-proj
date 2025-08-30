@@ -21,7 +21,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./desktop-design.png)
+![](screenshot\desktop-desgin.png)
 
 ### Links
 
